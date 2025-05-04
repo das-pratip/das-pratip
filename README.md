@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm @das-pratip</h1>
-<p align="center">🚀 Developer | 🎯 Freelancer | 💻 C Enthusiast</p>
+<p align="center">🚀 Developer | 🎯 Freelancer | 💻 Tech Enthusiast</p>
 
 ---
 
